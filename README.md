@@ -25,7 +25,7 @@ These instructions will get a copy of the project running on your local machine 
 - A Firebase project and credentials
 
 ### Install
-`ash
+`
 # install dependencies
 npm install
 # or
@@ -47,7 +47,7 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 Keep these values secure and do not commit them to version control.
 
 ### Run locally
-`ash
+`
 npm run dev
 # or
 pnpm dev
@@ -56,7 +56,7 @@ pnpm dev
 Open http://localhost:3000 to view the app.
 
 ## Build
-`ash
+`
 npm run build
 npm run start
 `
